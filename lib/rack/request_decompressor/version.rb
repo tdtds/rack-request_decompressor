@@ -1,5 +1,5 @@
 module Rack
-  class RequestDecompressor
-    VERSION = "0.0.1"
-  end
+	class RequestDecompressor
+		VERSION = "0.0.2"
+	end
 end
